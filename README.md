@@ -579,7 +579,7 @@ GROUP BY 1, 2
 ORDER BY 1, 3 DESC;
 ```
 
-### 20. Rank each city based on the total revenue for last year 2023
+### 20. Rank each city based on the total revenue for year 2023
 ```sql
 SELECT 
 	r.city,
